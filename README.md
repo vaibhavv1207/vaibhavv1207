@@ -1,9 +1,7 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey,%20I'm%20[Your%20Name]%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=CSE%20•%20Artificial%20Intelligence%20Student&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey,%20I'm%20Vaibhav%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=CSE%20•%20Artificial%20Intelligence%20Student&descAlignY=58&descSize=18&animation=fadeIn" />
 
-<!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Solving+LeetCode+Daily+%F0%9F%A7%A9;Building+DSA+in+Java+%E2%98%95;Mastering+JavaScript+%F0%9F%9A%80;Designing+Low+Level+Systems+%F0%9F%94%A7;Crafting+Real+World+Projects+%F0%9F%8C%9F;CSE+%2B+AI+%3D+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
 </a>
@@ -11,11 +9,10 @@
 <br/>
 <br/>
 
-<!-- Profile Views & Socials -->
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhavx002)
+![Profile Views](https://komarev.com/ghpvc/?username=vaibhavv1207&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhavv1207)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/vaibhavv1207)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vaibhavv1207)
 
 </div>
 
@@ -26,7 +23,7 @@
 ```java
 public class AboutMe {
 
-    String name        = "Your Name";
+    String name        = "Vaibhav";
     String degree      = "B.Tech — CSE (Artificial Intelligence)";
     String status      = "Undergraduate Student";
     String grind       = "LeetCode Daily | DSA in Java | JS | Projects | LLD";
@@ -55,7 +52,7 @@ public class AboutMe {
 
 | 📁 Category | 📝 Description | 🔗 Link |
 |:---:|:---:|:---:|
-| 🧩 **LeetCode** | Daily problem solving — Arrays, Trees, Graphs, DP & more | [View →](./leetcode/vaibhavv1207) |
+| 🧩 **LeetCode** | Daily problem solving — Arrays, Trees, Graphs, DP & more | [View →](./leetcode/) |
 | ☕ **DSA in Java** | Clean Java implementations of every major DS & Algorithm | [View →](./dsa-java/) |
 | 🌐 **JavaScript** | JS concepts, mini-projects, DOM, ES6+, async & more | [View →](./javascript/) |
 | 🔧 **LLD** | Low Level Design — OOP, Design Patterns, Class Diagrams | [View →](./lld/) |
@@ -69,11 +66,11 @@ public class AboutMe {
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/yourusername?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/vaibhavv1207)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/vaibhavv1207?theme=dark&font=Fira+Code&ext=heatmap&site=us)](https://leetcode.com/vaibhavv1207)
 
 </div>
 
-> 📅 **Goal:** Solve at least 1 problem every single day.  
+> 📅 **Goal:** Solve at least 1 problem every single day.
 > 🎯 **Focus Areas:** Arrays · Strings · Trees · Graphs · Dynamic Programming · Sliding Window · Two Pointers
 
 ---
@@ -202,16 +199,16 @@ public class AboutMe {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vaibhavv1207&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavv1207&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavv1207&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhavv1207&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 
 </div>
 
@@ -221,7 +218,7 @@ public class AboutMe {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=vaibhavv1207&theme=tokyonight&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -245,8 +242,8 @@ Weekend    |  🚀 Project work / revision / blog
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourusername)
-[![Gmail](https://img.shields.io/badge/Mail%20Me-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/vaibhavv1207)
+[![Gmail](https://img.shields.io/badge/Mail%20Me-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaibhav@gmail.com)
 [![LeetCode](https://img.shields.io/badge/Follow%20on-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/vaibhavv1207)
 
 </div>
