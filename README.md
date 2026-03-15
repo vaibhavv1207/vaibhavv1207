@@ -55,7 +55,7 @@ public class AboutMe {
 
 | 📁 Category | 📝 Description | 🔗 Link |
 |:---:|:---:|:---:|
-| 🧩 **LeetCode** | Daily problem solving — Arrays, Trees, Graphs, DP & more | [View →](./leetcode/) |
+| 🧩 **LeetCode** | Daily problem solving — Arrays, Trees, Graphs, DP & more | [View →](./leetcode/vaibhavv1207) |
 | ☕ **DSA in Java** | Clean Java implementations of every major DS & Algorithm | [View →](./dsa-java/) |
 | 🌐 **JavaScript** | JS concepts, mini-projects, DOM, ES6+, async & more | [View →](./javascript/) |
 | 🔧 **LLD** | Low Level Design — OOP, Design Patterns, Class Diagrams | [View →](./lld/) |
@@ -69,7 +69,7 @@ public class AboutMe {
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/yourusername?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/yourusername)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/yourusername?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/vaibhavv1207)
 
 </div>
 
@@ -247,7 +247,7 @@ Weekend    |  🚀 Project work / revision / blog
 
 [![LinkedIn](https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourusername)
 [![Gmail](https://img.shields.io/badge/Mail%20Me-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
-[![LeetCode](https://img.shields.io/badge/Follow%20on-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/yourusername)
+[![LeetCode](https://img.shields.io/badge/Follow%20on-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/vaibhavv1207)
 
 </div>
 
