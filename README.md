@@ -1,15 +1,17 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey,%20I'm%20Vaibhav%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=CSE%20•%20Artificial%20Intelligence%20Student&descAlignY=58&descSize=18&animation=fadeIn" />
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Solving+LeetCode+Daily+%F0%9F%A7%A9;Building+DSA+in+Java+%E2%98%95;Mastering+JavaScript+%F0%9F%9A%80;Designing+Low+Level+Systems+%F0%9F%94%A7;Crafting+Real+World+Projects+%F0%9F%8C%9F;CSE+%2B+AI+%3D+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Hey,%20I'm%20Vaibhav%20👋&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=CSE%20•%20Artificial%20Intelligence%20•%20NIET%20Noida&descAlignY=58&descSize=20&animation=fadeIn" />
 
 <br/>
-<br/>
+
+<picture>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=A78BFA&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=Solving+LeetCode+Daily+%F0%9F%A7%A9;Building+DSA+in+Java+%E2%98%95;Mastering+JavaScript+%F0%9F%9A%80;Designing+Low+Level+Systems+%F0%9F%94%A7;Building+AI+Traffic+Surveillance+%F0%9F%9A%A6;Computer+Vision+%2B+Deep+Learning+%F0%9F%A4%96;CSE+%2B+AI+%3D+Endless+Possibilities+%F0%9F%92%A1" alt="Typing SVG" />
+</picture>
+
+<br/><br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vaibhavv1207&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/vaibhavv1207?style=for-the-badge&color=7c3aed&labelColor=1a1a2e&label=FOLLOWERS)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhavv1207)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/vaibhavv1207)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vaibhavv1207)
@@ -18,6 +20,8 @@
 
 ---
 
+<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+
 ## 🧠 About Me
 
 ```java
@@ -25,24 +29,76 @@ public class AboutMe {
 
     String name        = "Vaibhav";
     String degree      = "B.Tech — CSE (Artificial Intelligence)";
-    String status      = "Undergraduate Student";
-    String grind       = "LeetCode Daily | DSA in Java | JS | Projects | LLD";
+    String college     = "NIET, Noida";
+    String status      = "Final Year Undergraduate";
+
+    String[] currentlyBuilding = {
+        "🚦 Intelligent Traffic Monitoring System",
+        "   └─ YOLOv8 + CNN-LSTM + Real-time Alerts"
+    };
 
     String[] interests = {
+        "Computer Vision & Deep Learning",
         "Data Structures & Algorithms",
-        "Artificial Intelligence / ML",
         "Low Level Design (LLD)",
         "Full Stack Development",
         "System Design"
     };
 
-    String currentFocus = "Becoming placement-ready while building cool stuff.";
-
-    void motto() {
-        System.out.println("Code it. Break it. Fix it. Ship it. 🚀");
-    }
+    String grind = "LeetCode Daily | DSA | JS | Projects | LLD";
+    String motto = "Code it. Break it. Fix it. Ship it. 🚀";
 }
 ```
+
+<br clear="right"/>
+
+---
+
+## 🚦 Final Year Project — Intelligent Traffic Monitoring System
+
+<div align="center">
+
+[![Repo](https://img.shields.io/badge/🔗%20View%20Repository-intelligent--traffic--monitoring-7c3aed?style=for-the-badge)](https://github.com/vaibhavv1207/intelligent-traffic-monitoring)
+![Status](https://img.shields.io/badge/Status-In%20Progress-FFA116?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logoColor=black)
+
+</div>
+
+> A smart surveillance system that detects traffic violations, recognises emergency vehicles, and detects accidents in real time — with automated alerts to police and hospitals.
+
+<details>
+<summary><b>🔍 Click to see module progress</b></summary>
+
+<br/>
+
+| Module | Technology | Status |
+|:---|:---|:---:|
+| 🚗 Vehicle Detection | YOLOv8 (anchor-free) | ✅ Done |
+| 🏎️ Speed Estimation | DeepSORT + Homography | ✅ Done |
+| 🔤 License Plate OCR | EasyOCR + Preprocessing | 🔄 In Progress |
+| 🚑 Ambulance Detection | YOLOv8 + Light-bar Analysis | ⏳ Upcoming |
+| 💥 Accident Detection | CNN-LSTM Spatiotemporal | ⏳ Upcoming |
+| 📲 Real-time Alerts | Twilio + WhatsApp API | ⏳ Upcoming |
+| 🖥️ Dashboard | Flask | ⏳ Upcoming |
+
+</details>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Tech Stack | Description | Link |
+|:---:|:---:|:---:|:---:|
+| 🚦 **Intelligent Traffic Monitor** | Python, YOLOv8, OpenCV, CNN-LSTM, Twilio | Final year AI project — violation detection, speed estimation, OCR, ambulance & accident alerts | [Repo →](https://github.com/vaibhavv1207/intelligent-traffic-monitoring) |
+| 🤖 **AI Chat App** | React, Node.js, OpenAI | GPT-powered conversational app | [Repo →](#) |
+| 📊 **DSA Visualizer** | HTML, CSS, JS | Animate sorting & graph algorithms | [Repo →](#) |
+| 📝 **LLD Playground** | Java | Interactive OOP design exercises | [Repo →](#) |
+| 🌐 **Portfolio** | React, Tailwind | Personal dev portfolio | [Repo →](#) |
+
+</div>
 
 ---
 
@@ -120,8 +176,6 @@ public class AboutMe {
 
 ## 🔧 Low Level Design (LLD)
 
-> Practicing OOP, SOLID principles, and design patterns through real-world system designs.
-
 <details>
 <summary><b>📦 Click to expand LLD topics</b></summary>
 
@@ -145,21 +199,6 @@ public class AboutMe {
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Tech Stack | Description | Link |
-|:---:|:---:|:---:|:---:|
-| 🤖 **AI Chat App** | React, Node.js, OpenAI | GPT-powered conversational app | [Repo →](#) |
-| 📊 **DSA Visualizer** | HTML, CSS, JS | Animate sorting & graph algorithms | [Repo →](#) |
-| 📝 **LLD Playground** | Java | Interactive OOP design exercises | [Repo →](#) |
-| 🌐 **Portfolio** | React, Tailwind | Personal dev portfolio | [Repo →](#) |
-
-</div>
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -175,8 +214,18 @@ public class AboutMe {
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**AI / ML & Computer Vision**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 **Tools & Platforms**
 
@@ -184,12 +233,7 @@ public class AboutMe {
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-
-**AI / ML**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </div>
 
@@ -199,8 +243,8 @@ public class AboutMe {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vaibhavv1207&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavv1207&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vaibhavv1207&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" height="180em"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavv1207&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180em"/>
 
 <br/>
 
@@ -218,7 +262,7 @@ public class AboutMe {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=vaibhavv1207&theme=tokyonight&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=vaibhavv1207&theme=tokyonight&no-frame=true&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -245,6 +289,10 @@ Weekend    |  🚀 Project work / revision / blog
 [![LinkedIn](https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/vaibhavv1207)
 [![Gmail](https://img.shields.io/badge/Mail%20Me-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaibhav@gmail.com)
 [![LeetCode](https://img.shields.io/badge/Follow%20on-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/vaibhavv1207)
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 </div>
 
